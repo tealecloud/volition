@@ -39,7 +39,6 @@ gem 'google_sign_in'
 gem 'google-id-token', git: 'https://github.com/google/google-id-token.git'
 gem 'enumerize'
 gem "gibbon"
-gem 'premailer-rails'
 gem 'rails-erd'
 gem "payola-payments", git: "https://github.com/payolapayments/payola.git", branch: "master"
 
